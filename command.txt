@@ -1,0 +1,5 @@
+clear
+git add file name
+git clone 'paste HTPPS link'
+cd foldername
+npm install
